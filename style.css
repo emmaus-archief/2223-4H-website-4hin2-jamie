@@ -9,7 +9,7 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #424242;    /* achtergrondkleur lichtgrijs */
+  background-color: #6b6b6b;    /* achtergrondkleur lichtgrijs */
   color: #000000;               /* tekstkleur donkergrijs */
 }  
 
@@ -19,7 +19,10 @@ body * {                          /* geldt voor alles in body */
   margin: 1px;                    /* standaard marge 0 */
 }
 
-/* Indeling voor alle pagina's */
+#formule1logo {
+  float:right;
+  width:400px;
+}
 
 .page {
   width: 800px;                   /* vaste breedte van 700 pixels */
@@ -38,6 +41,9 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   text-align: center;             /* tekst centreren */
 } 
 
+#FIA {
+  color:#d6d6d6;
+}
 p {
   margin: 10px 0px;
   text-align: justify;            /* tekst links en rechts uitvullen */

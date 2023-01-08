@@ -22,6 +22,7 @@ body * {                          /* geldt voor alles in body */
 #formule1logo {
   float:right;
   width:400px;
+
 }
 
 .page {
@@ -40,7 +41,9 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
   text-align: center;             /* tekst centreren */
 } 
-
+.onderwerpen {
+  color: black;
+}
 #FIA {
   color:#d6d6d6;
 }
@@ -51,7 +54,9 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
    padding-right:10px;
 }
 
-
+.onderwerp2 {
+  font-weight:bold;
+}
 
 p {
   margin: 10px 0px;

@@ -21,8 +21,8 @@ body * {                          /* geldt voor alles in body */
 
 #formule1logo {
   float:right;
-  width:400px;
-
+  width:390px;
+  margin-left: 10px;
 }
 
 .page {
@@ -44,8 +44,8 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 .onderwerpen {
   color: black;
 }
-#FIA {
-  color:#d6d6d6;
+.linkjes {
+  color:#c4c4c4;
 }
 
 #formule-startinggrid {

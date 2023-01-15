@@ -136,3 +136,132 @@ hr {
   border-color:black;
 }
 
+#redbullracing {
+  margin-top: 10px;
+  border-top:solid 5px #000047;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #000047;
+  height: 400px;
+}
+
+.redbull {
+  color:red;
+  margin-right: 80%;
+  }
+
+
+#redbull1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #000047;
+  padding-right: 5px;
+}
+
+#redbull2 {
+  position: absolute;
+  margin-left: 265px;
+
+}
+
+#redbullimage1 {
+  width: 230px;/
+  position: absolute;
+  margin-left:550px;
+  border-left: solid 3px #000047;
+  padding-left: 15px;
+
+}
+
+#Max {
+  color:red;
+  position: absolute;
+margin-top: 13px;
+  
+}
+
+#redbull3 {
+  position: absolute;
+  padding-top: 23px;
+  margin-left: 5px;
+  border-right:solid 3px #000047;
+  padding-right: 30px;
+}
+
+#Perez {
+  color: red;
+  position: absolute;
+  margin-left: 265px ;
+  margin-top: 13px;
+  
+}
+
+#redbull4 {
+  position: absolute;
+  margin-left: 265px;
+  padding-top: 23px;
+}
+
+#mercedez-amg {
+  margin-top: 10px;
+  border-top:solid 5px #00b395;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #00b395;
+  height: 400px;
+}
+
+
+.mercedez {
+  color:#f2f2f2;
+  margin-right: 55%;
+  float: left;
+  }
+
+#mercedez1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #00b395;
+  padding-right: 5px;
+}
+
+#mercedez2 {
+  position: absolute;
+  margin-left: 265px;
+  
+
+}
+
+#mercedezimage1 {
+  width: 230px;
+  margin-left: 550px;
+}
+
+#Lewis {
+  color:#fafafa;
+  position: absolute;
+margin-top: 180px;
+  
+}
+
+#Mercedez3 {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 5px;
+  border-right:solid 3px #00b395;
+  padding-right: 30px;
+}
+
+#Rusell {
+  color: white;
+  position: absolute;
+  margin-left: 265px ;
+  margin-top: 180px;
+  
+}
+
+#mercedez4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 200px;
+}

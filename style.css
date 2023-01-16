@@ -147,6 +147,7 @@ hr {
 .redbull {
   color:red;
   margin-right: 80%;
+  text-decoration: underline;
   }
 
 
@@ -176,7 +177,8 @@ hr {
 #Max {
   color:red;
   position: absolute;
-margin-top: 13px;
+  margin-top: 13px;
+  text-decoration: underline;
   
 }
 
@@ -193,7 +195,7 @@ margin-top: 13px;
   position: absolute;
   margin-left: 265px ;
   margin-top: 13px;
-  
+  text-decoration: underline;
 }
 
 #redbull4 {
@@ -215,6 +217,7 @@ margin-top: 13px;
   color:#f2f2f2;
   margin-right: 55%;
   float: left;
+  text-decoration: underline;
   }
 
 #mercedez1 {
@@ -242,6 +245,7 @@ margin-top: 13px;
     color: white;
   position: absolute;
   margin-left: 5px;
+  text-decoration: underline;
 }
 
 
@@ -250,7 +254,7 @@ margin-top: 13px;
   margin-left: 5px;
   border-right:solid 3px #00b395;
   padding-right: 30px;
-  margin-top: 20px;
+  margin-top: 25px;
   
 }
 
@@ -258,10 +262,280 @@ margin-top: 13px;
   color: white;
   position: absolute;
   margin-left: 265px ;
+  text-decoration: underline;
 }
 
 #mercedez4 {
   position: absolute;
   margin-left: 265px;
-  margin-top: 20px;
+  margin-top: 25px;
 }
+
+#ferrari {
+  margin-top: 10px;
+  border-top:solid 5px #d60000;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #d60000;
+  height: 400px;
+}
+
+
+.ferrari-team {
+  color:#000000;
+  margin-right: 55%;
+  float: left;
+  text-decoration: underline;
+  }
+
+#ferrari1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #d60000;
+  padding-right: 5px;
+}
+
+#ferrari2 {
+  position: absolute;
+  margin-left: 265px;
+}
+
+#ferrari-image1 {
+  width: 230px;
+  margin-left: 550px;
+  border-left:solid 3px #d60000;
+  padding-left: 16px;
+}
+#charles {
+    color: #000000;
+  position: absolute;
+  margin-left: 5px;
+  text-decoration: underline;
+}
+
+
+#ferrari3 {
+  position: absolute;
+  margin-left: 5px;
+  border-right:solid 3px #d60000;
+  padding-right: 30px;
+  margin-top: 25px;
+  
+}
+
+#carlos {
+  color: #000000;
+  position: absolute;
+  margin-left: 265px ;
+  text-decoration: underline;
+}
+
+#ferrari4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 25px;
+}
+
+#mclaren {
+  margin-top: 10px;
+  border-top:solid 5px #ffae00;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #ffae00;
+  height: 400px;
+}
+
+
+.mclaren-team {
+  color:#ffffff;
+  margin-right: 55%;
+  float: left;
+  text-decoration: underline;
+  }
+
+#mclaren1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #ffae00;
+  padding-right: 5px;
+}
+
+#mclaren2 {
+  position: absolute;
+  margin-left: 265px;
+  
+
+}
+
+#mclarenimage1 {
+  width: 230px;
+  margin-left: 550px;
+  border-left:solid 3px #ffae00;
+  padding-left: 16px;
+}
+#norris {
+    color: #ffffff;
+  position: absolute;
+  margin-left: 5px;
+  text-decoration: underline;
+  margin-top: 17px;
+}
+
+
+#Mclaren3 {
+  position: absolute;
+  margin-left: 5px;
+  border-right:solid 3px #ffae00;
+  padding-right: 30px;
+  margin-top: 40px;
+  
+}
+
+#riciardo {
+  color: #ffffff;
+  position: absolute;
+  margin-left: 265px ;
+  text-decoration: underline;
+  margin-top: 17px;
+}
+
+#mclaren4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 40px;
+}
+
+#alpine-f1 {
+  margin-top: 10px;
+  border-top:solid 5px #0071eb;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #0071eb;
+  height: 400px;
+}
+
+
+.alpine {
+  color:#f7b1da;
+  margin-right: 55%;
+  float: left;
+  text-decoration: underline;
+  }
+
+#alpine1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #0071eb;
+  padding-right: 5px;
+}
+
+#alpine2 {
+  position: absolute;
+  margin-left: 265px;
+  
+
+}
+
+#alpine-image1 {
+  width: 230px;
+  margin-left: 550px;
+  border-left:solid 3px #0071eb;
+  padding-left: 16px;
+}
+#alonso {
+    color: #f7b1da;
+  position: absolute;
+  margin-left: 5px;
+  text-decoration: underline;
+  margin-top: 30px;
+}
+
+
+#alpine3 {
+  position: absolute;
+  margin-left: 5px;
+  border-right:solid 3px #0071eb;
+  padding-right: 30px;
+  margin-top: 52px;
+  
+}
+
+#ocon {
+  color: #f7b1da;
+  position: absolute;
+  margin-left: 265px ;
+  text-decoration: underline;
+  margin-top: 30px;
+}
+
+#alpine4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 52px;
+}
+
+#aston-f1 {
+  margin-top: 10px;
+  border-top:solid 5px #007552;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #007552;
+  height: 400px;
+}
+
+
+.aston {
+  color:#f2f2f2;
+  margin-right: 55%;
+  float: left;
+  text-decoration: underline;
+  }
+
+#aston1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #007552;
+  padding-right: 5px;
+}
+
+#aston2 {
+  position: absolute;
+  margin-left: 265px;
+  
+
+}
+
+#astonimage1 {
+  width: 230px;
+  margin-left: 550px;
+  border-left:solid 3px #007552;
+  padding-left: 16px;
+}
+#vettel {
+    color: white;
+  position: absolute;
+  margin-left: 5px;
+  text-decoration: underline;
+}
+
+
+#aston3 {
+  position: absolute;
+  margin-left: 5px;
+  border-right:solid 3px #007552;
+  padding-right: 30px;
+  margin-top: 25px;
+  
+}
+
+#stroll {
+  color: white;
+  position: absolute;
+  margin-left: 265px ;
+  text-decoration: underline;
+}
+
+#aston4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 25px;

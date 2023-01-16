@@ -231,8 +231,6 @@ hr {
 #mercedez2 {
   position: absolute;
   margin-left: 265px;
-  
-
 }
 
 #mercedezimage1 {
@@ -255,7 +253,6 @@ hr {
   border-right:solid 3px #00b395;
   padding-right: 30px;
   margin-top: 25px;
-  
 }
 
 #Rusell {
@@ -407,9 +404,9 @@ hr {
 
 #alpine-f1 {
   margin-top: 10px;
-  border-top:solid 5px #0071eb;
+  border-top:solid 5px #0063cc;
   border-top-right-radius: 5px;
-  border-right:solid 5px #0071eb;
+  border-right:solid 5px #0063cc;
   height: 400px;
 }
 
@@ -425,21 +422,19 @@ hr {
   position: absolute;
   width: 250px;
   margin-left: 5px;
-  border-right:solid 3px #0071eb;
+  border-right:solid 3px #0063cc;
   padding-right: 5px;
 }
 
 #alpine2 {
   position: absolute;
   margin-left: 265px;
-  
-
 }
 
 #alpine-image1 {
   width: 230px;
   margin-left: 550px;
-  border-left:solid 3px #0071eb;
+  border-left:solid 3px #0063cc;
   padding-left: 16px;
 }
 #alonso {
@@ -454,7 +449,7 @@ hr {
 #alpine3 {
   position: absolute;
   margin-left: 5px;
-  border-right:solid 3px #0071eb;
+  border-right:solid 3px #0063cc;
   padding-right: 30px;
   margin-top: 52px;
   
@@ -478,7 +473,7 @@ hr {
   margin-top: 10px;
   border-top:solid 5px #007552;
   border-top-right-radius: 5px;
-  border-right:solid 5px #007552;
+  border-right:solid 5px #0c7958;
   height: 400px;
 }
 
@@ -494,7 +489,7 @@ hr {
   position: absolute;
   width: 250px;
   margin-left: 5px;
-  border-right:solid 3px #007552;
+  border-right:solid 3px #0c7958;
   padding-right: 5px;
 }
 
@@ -508,7 +503,7 @@ hr {
 #astonimage1 {
   width: 230px;
   margin-left: 550px;
-  border-left:solid 3px #007552;
+  border-left:solid 3px #0c7958;
   padding-left: 16px;
 }
 #vettel {
@@ -516,15 +511,16 @@ hr {
   position: absolute;
   margin-left: 5px;
   text-decoration: underline;
+  margin-top: 38px;
 }
 
 
 #aston3 {
   position: absolute;
   margin-left: 5px;
-  border-right:solid 3px #007552;
+  border-right:solid 3px #0c7958;
   padding-right: 30px;
-  margin-top: 25px;
+  margin-top: 60px;
   
 }
 
@@ -533,9 +529,148 @@ hr {
   position: absolute;
   margin-left: 265px ;
   text-decoration: underline;
+  margin-top: 38px;
 }
 
 #aston4 {
   position: absolute;
   margin-left: 265px;
-  margin-top: 25px;
+  margin-top: 60px;
+}
+
+
+#romeo-f1 {
+  margin-top: 10px;
+  border-top:solid 5px #8e2929;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #8e2929;
+  height: 400px;
+}
+
+
+.romeo {
+  color:#f2f2f2;
+  margin-right: 55%;
+  float: left;
+  text-decoration: underline;
+  }
+
+#romeo1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #8e2929;
+  padding-right: 5px;
+}
+
+#romeo2 {
+  position: absolute;
+  margin-left: 265px;
+}
+
+#romeo-image1 {
+  width: 230px;
+  margin-left: 550px;
+  border-left:solid 3px #8e2929;
+  padding-left: 16px;
+}
+#bottas {
+  color: white;
+  position: absolute;
+  margin-left: 5px;
+  text-decoration: underline;
+  margin-top: 38px;
+}
+
+
+#romeo3 {
+  position: absolute;
+  margin-left: 5px;
+  border-right:solid 3px #8e2929;
+  padding-right: 30px;
+  margin-top: 60px;
+}
+
+#zhou {
+  color: white;
+  position: absolute;
+  margin-left: 265px ;
+  text-decoration: underline;
+  margin-top: 38px;
+}
+
+#romeo4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 60px;
+}
+
+
+#tauri-f1 {
+  margin-top: 10px;
+  border-top:solid 5px #031f44;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #031f44;
+  height: 400px;
+}
+
+
+.tauri {
+  color:#f2f2f2;
+  margin-right: 55%;
+  float: left;
+  text-decoration: underline;
+  }
+
+#tauri1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #031f44;
+  padding-right: 5px;
+}
+
+#tauri2 {
+  position: absolute;
+  margin-left: 265px;
+  
+
+}
+
+#tauri-image1 {
+  width: 230px;
+  margin-left: 550px;
+  border-left:solid 3px #031f44;
+  padding-left: 16px;
+}
+#gasly {
+    color: white;
+  position: absolute;
+  margin-left: 5px;
+  text-decoration: underline;
+  margin-top: 38px;
+}
+
+
+#tauri3 {
+  position: absolute;
+  margin-left: 5px;
+  border-right:solid 3px #031f44;
+  padding-right: 30px;
+  margin-top: 60px;
+  
+}
+
+#tsunoda {
+  color: white;
+  position: absolute;
+  margin-left: 265px ;
+  text-decoration: underline;
+  margin-top: 38px;
+}
+
+#tauri4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 60px;
+}

@@ -35,7 +35,7 @@ header, footer {                  /* geldt voor header en footer */
 }
 
 main {                       
-  text-align: justify;            /* tekst uitvullen */}
+}        
 
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
@@ -60,7 +60,7 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 
 p {
   margin: 10px 0px;
-  text-align: justify;            /* tekst links en rechts uitvullen */
+             
 }
 
 /* Indeling voor hoofd pagina */
@@ -235,33 +235,33 @@ margin-top: 13px;
 #mercedezimage1 {
   width: 230px;
   margin-left: 550px;
+  border-left:solid 3px #00b395;
+  padding-left: 16px;
+}
+#Lewis {
+    color: white;
+  position: absolute;
+  margin-left: 5px;
 }
 
-#Lewis {
-  color:#fafafa;
-  position: absolute;
-margin-top: 180px;
-  
-}
 
 #Mercedez3 {
   position: absolute;
-  margin-top: 200px;
   margin-left: 5px;
   border-right:solid 3px #00b395;
   padding-right: 30px;
+  margin-top: 20px;
+  
 }
 
 #Rusell {
   color: white;
   position: absolute;
   margin-left: 265px ;
-  margin-top: 180px;
-  
 }
 
 #mercedez4 {
   position: absolute;
   margin-left: 265px;
-  margin-top: 200px;
+  margin-top: 20px;
 }

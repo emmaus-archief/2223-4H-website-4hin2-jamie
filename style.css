@@ -674,3 +674,142 @@ hr {
   margin-left: 265px;
   margin-top: 60px;
 }
+
+
+#haas-f1 {
+  margin-top: 10px;
+  border-top:solid 5px #ffffff;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #ffffff;
+  height: 400px;
+}
+
+
+.haas {
+  color:#d10000;
+  margin-right: 55%;
+  float: left;
+  text-decoration: underline;
+  }
+
+#haas1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #ffffff;
+  padding-right: 5px;
+}
+
+#haas2 {
+  position: absolute;
+  margin-left: 265px;
+  
+
+}
+
+#haas-image1 {
+  width: 230px;
+  margin-left: 550px;
+  border-left:solid 3px #ffffff;
+  padding-left: 16px;
+}
+#kevin {
+    color: #d10000;
+  position: absolute;
+  margin-left: 5px;
+  text-decoration: underline;
+  margin-top: 38px;
+}
+
+
+#haas3 {
+  position: absolute;
+  margin-left: 5px;
+  border-right:solid 3px #ffffff;
+  padding-right: 30px;
+  margin-top: 60px;
+  
+}
+
+#mick {
+  color: #d10000;
+  position: absolute;
+  margin-left: 265px ;
+  text-decoration: underline;
+  margin-top: 38px;
+}
+
+#haas4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 60px;
+}
+
+#williams-f1 {
+  margin-top: 10px;
+  border-top:solid 5px #10478e;
+  border-top-right-radius: 5px;
+  border-right:solid 5px #10478e;
+  height: 400px;
+}
+
+
+.williams {
+  color:#f2f2f2;
+  margin-right: 55%;
+  float: left;
+  text-decoration: underline;
+  }
+
+#williams1 {
+  position: absolute;
+  width: 250px;
+  margin-left: 5px;
+  border-right:solid 3px #2578e4;
+  padding-right: 5px;
+}
+
+#williams2 {
+  position: absolute;
+  margin-left: 265px;
+  
+
+}
+
+#williams-image1 {
+  width: 230px;
+  margin-left: 550px;
+  border-left:solid 3px #2578e4;
+  padding-left: 16px;
+}
+#albon {
+    color: white;
+  position: absolute;
+  margin-left: 5px;
+  text-decoration: underline;
+  margin-top: 38px;
+}
+
+
+#williams3 {
+  position: absolute;
+  margin-left: 5px;
+  border-right:solid 3px #2578e4;
+  padding-right: 30px;
+  margin-top: 60px;
+  
+}
+
+#latifi {
+  color: white;
+  position: absolute;
+  margin-left: 265px ;
+  text-decoration: underline;
+  margin-top: 38px;
+}
+
+#williams4 {
+  position: absolute;
+  margin-left: 265px;
+  margin-top: 60px;
+}
